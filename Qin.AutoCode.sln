@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32804.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Qin.AutoCode", "Qin.AutoCode\Qin.AutoCode.csproj", "{DBA69BD9-6803-45A7-88D0-312B0EE12B9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qin.AutoCode.Abstractions", "Qin.AutoCode.Abstractions\Qin.AutoCode.Abstractions.csproj", "{FDF3A795-A77E-4A99-BD41-C67F92469BBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBA69BD9-6803-45A7-88D0-312B0EE12B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA69BD9-6803-45A7-88D0-312B0EE12B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA69BD9-6803-45A7-88D0-312B0EE12B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA69BD9-6803-45A7-88D0-312B0EE12B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDF3A795-A77E-4A99-BD41-C67F92469BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF3A795-A77E-4A99-BD41-C67F92469BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF3A795-A77E-4A99-BD41-C67F92469BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF3A795-A77E-4A99-BD41-C67F92469BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E478015-38B0-4DB0-99BA-4DEB0FBBEF8A}
+	EndGlobalSection
+EndGlobal
